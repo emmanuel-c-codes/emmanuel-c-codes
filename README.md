@@ -55,4 +55,17 @@ I'm a developer passionate about building mobile-responsive, highly optimized we
 *   **Email:** [Your Email Address]
 *   **Portfolio:** [Link to your personal website if you have one]
 
+---
+
+<div align="center">
+
+<h3>Changing the world, one commit at a time.</h3>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/advik-bhatt/advik-bhatt/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/advik-bhatt/advik-bhatt/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub contribution world map animation" src="https://raw.githubusercontent.com/advik-bhatt/advik-bhatt/output/github-contribution-grid-snake.svg" />
+</picture>
+
+</div>
 > *"Always focused on performance optimization, minimizing data consumption, and building seamless digital experiences."*
