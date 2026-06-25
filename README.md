@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Emmanuel 👋
 
 ### Full-Stack Developer | Digital Creator | Coding Instructor
 
