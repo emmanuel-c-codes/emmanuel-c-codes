@@ -10,6 +10,9 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-252F3F?style=for-the-badge&logo=Web&logoColor=white)](YOUR_PORTFOLIO_URL)
 [![Sponsor](https://img.shields.io/badge/Sponsor_Me-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white)](YOUR_GITHUB_SPONSORS_URL)
 
+<!-- Dynamic Visitor Counter -->
+![](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
+
 </div>
 
 ---
@@ -66,6 +69,15 @@ A fully monetized, organic-traffic-driven financial utility application.
 
 ---
 
+## 🚀 Currently Learning & Exploring
+
+As technology evolves, so do I. I am currently expanding my skill set in:
+*   **Advanced Next.js Architectures:** Mastering server-side rendering (SSR) and caching strategies for sub-second load times.
+*   **AI Prompt Engineering for UI/UX:** Refining cinematic 3D renders and hyper-realistic digital environments to prototype modern interfaces faster.
+*   **Web Accessibility (a11y):** Ensuring the web is usable for everyone, regardless of hardware capabilities or internet speed.
+
+---
+
 ## 🛠️ Technical Arsenal
 
 I build across the stack, integrating modern UI frameworks with secure, robust backend architectures.
@@ -79,22 +91,24 @@ I build across the stack, integrating modern UI frameworks with secure, robust b
 ### 🔌 Integrations & Monetization
 ![Paystack](https://img.shields.io/badge/Paystack-0080FF?style=for-the-badge) ![Google AdSense](https://img.shields.io/badge/Google_AdSense-EA4335?style=for-the-badge&logo=google&logoColor=white) ![Stripe](https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=Stripe&logoColor=white) ![GitHub Sponsors](https://img.shields.io/badge/GitHub_Sponsors-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white)
 
-### 🎨 Digital Design & AI
-*   **UI/UX Prototyping:** Cinematic photo editing and layout design.
-*   **AI Integration:** Advanced prompt engineering for hyper-realistic 3D image generation and digital assets.
-
 ---
 
 ## 📊 Analytics & Open Source Contributions
 
 <div align="center">
   
+  <!-- Top Languages Card -->
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+  <!-- Streak Stats -->
   [![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true)](https://git.io/streak-stats)
   
+  <!-- General Stats -->
   [![Chima's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
   <h3>Changing the world, one commit at a time.</h3>
   
+  <!-- Contribution Snake Animation -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/advik-bhatt/advik-bhatt/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/advik-bhatt/advik-bhatt/output/github-contribution-grid-snake.svg" />
@@ -104,8 +118,15 @@ I build across the stack, integrating modern UI frameworks with secure, robust b
 </div>
 
 ---
+
+## 🤝 Let's Collaborate
+
+I am actively open to discussions regarding:
+- 💼 Freelance full-stack architecture and development.
+- 🌐 Setting up secure, cross-border monetization and payment gateways.
+- 🎨 Crafting modern UIs with AI-assisted 3D digital elements.
+- 🗣️ Developer mentorship, speaking, or teaching opportunities.
+
 <div align="center">
   <i>Let's build something amazing together. <a href="mailto:YOUR_EMAIL_ADDRESS">Drop me a line!</a></i>
 </div>
-
-> *"Always focused on performance optimization, minimizing data consumption, and building seamless digital experiences."*
