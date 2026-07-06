@@ -107,3 +107,5 @@ I build across the stack, integrating modern UI frameworks with secure, robust b
 <div align="center">
   <i>Let's build something amazing together. <a href="mailto:YOUR_EMAIL_ADDRESS">Drop me a line!</a></i>
 </div>
+
+> *"Always focused on performance optimization, minimizing data consumption, and building seamless digital experiences."*
