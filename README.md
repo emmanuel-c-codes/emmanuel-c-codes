@@ -15,19 +15,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-252F3F?style=for-the-badge&logo=Web&logoColor=white)](YOUR_PORTFOLIO_URL)
 [![Sponsor](https://img.shields.io/badge/Sponsor_Me-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white)](YOUR_GITHUB_SPONSORS_URL)
 
-<!-- Dynamic Visitor Counter -->
-![](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blueviolet&style=flat-square&label=PROFILE+VIEWS)
-
 </div>
-
----
-
-## 📑 Quick Navigation
-- [🧠 Engineering Philosophy](#-about-my-engineering-philosophy)
-- [🛠️ Tech Stack & Arsenal](#-tech-stack--arsenal)
-- [🏆 Featured Architecture](#-featured-engineering-projects)
-- [⏳ Career & Growth](#-career--development-timeline)
-- [📊 GitHub Analytics](#-analytics--open-source-contributions)
 
 ---
 
@@ -39,39 +27,7 @@ When I am not architecting databases or integrating payment gateways, I am at th
 
 ---
 
-## 🛠️ Tech Stack & Arsenal
-
-I build across the stack, integrating modern UI frameworks with secure, robust backend architectures.
-
-<div align="center">
-  <!-- Visual Tech Grid -->
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,js,php,mysql,firebase,git,vscode,figma&perline=6" alt="Chima's Tech Stack" />
-  </a>
-</div>
-<br>
-
-### 🔌 Integrations & Monetization
-![Paystack](https://img.shields.io/badge/Paystack-0080FF?style=for-the-badge) ![Google AdSense](https://img.shields.io/badge/Google_AdSense-EA4335?style=for-the-badge&logo=google&logoColor=white) ![Stripe](https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=Stripe&logoColor=white) ![GitHub Sponsors](https://img.shields.io/badge/GitHub_Sponsors-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white)
-
-### 🎨 Digital Design & AI
-*   **UI/UX Prototyping:** Cinematic photo editing and modern layout design.
-*   **AI Integration:** Advanced prompt engineering for hyper-realistic 3D image generation and digital assets.
-
----
-
 ## 🏆 Featured Engineering Projects
-
-<div align="center">
-  <!-- Visual Repo Cards - Replace YOUR_GITHUB_USERNAME and repo names with your actual data -->
-  <a href="https://github.com/YOUR_GITHUB_USERNAME/EcoMonitor">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=EcoMonitor&theme=radical" alt="EcoMonitor Repo" />
-  </a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME/NexusLearn">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=NexusLearn&theme=radical" alt="NexusLearn Repo" />
-  </a>
-</div>
-<br>
 
 <details>
 <summary><b>🌍 EcoMonitor: Government Environmental Oversight Dashboard</b></summary>
@@ -115,57 +71,46 @@ A fully monetized, organic-traffic-driven financial utility application.
 
 ---
 
-## ⏳ Career & Development Timeline
+## 🛠️ Technical Arsenal
 
-- **2026 - Present:** 👨‍🏫 **Web Development Instructor**  
-  *Mentoring incoming students at a local tech hub. Breaking down foundational programming concepts (HTML & CSS) into digestible, real-world lessons.*
-- **2026 - Present:** 💻 **Full-Stack Freelance Engineer**  
-  *Architecting scalable platforms like EcoMonitor. Integrating complex payment gateways (Paystack/Stripe) and establishing global monetization channels.*
-- **Continuous:** 🎨 **Digital Creator & UI Innovator**  
-  *Pushing the boundaries of front-end design using AI image generation to create hyper-realistic 3D user interfaces and cinematic web environments.*
+I build across the stack, integrating modern UI frameworks with secure, robust backend architectures.
+
+### 💻 Frontend Architecture
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### ⚙️ Backend & Database
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+
+### 🔌 Integrations & Monetization
+![Paystack](https://img.shields.io/badge/Paystack-0080FF?style=for-the-badge) ![Google AdSense](https://img.shields.io/badge/Google_AdSense-EA4335?style=for-the-badge&logo=google&logoColor=white) ![Stripe](https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=Stripe&logoColor=white) ![GitHub Sponsors](https://img.shields.io/badge/GitHub_Sponsors-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white)
+
+### 🎨 Digital Design & AI
+*   **UI/UX Prototyping:** Cinematic photo editing and layout design.
+*   **AI Integration:** Advanced prompt engineering for hyper-realistic 3D image generation and digital assets.
 
 ---
 
 ## 📊 Analytics & Open Source Contributions
 
 <div align="center">
-
-<!-- GitHub Trophies -->
-[![trophy](https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=radical&no-frame=true&no-bg=true&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
-
-<br>
-
-<table>
-  <tr>
-    <td align="center">
-      <!-- General Stats -->
-      <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Chima's GitHub stats" />
-    </td>
-    <td align="center">
-      <!-- Top Languages Card -->
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true" alt="Top Langs" />
-    </td>
-  </tr>
-</table>
-
-<!-- Streak Stats -->
-[![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true)](https://git.io/streak-stats)
   
-<h3>Changing the world, one commit at a time.</h3>
+  [![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true)](https://git.io/streak-stats)
   
-<!-- Animated Contribution Snake -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/advik-bhatt/advik-bhatt/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/advik-bhatt/advik-bhatt/output/github-contribution-grid-snake.svg" />
-  <img alt="GitHub contribution world map animation" src="https://raw.githubusercontent.com/advik-bhatt/advik-bhatt/output/github-contribution-grid-snake.svg" />
-</picture>
+  [![Chima's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+  <h3>Changing the world, one commit at a time.</h3>
+  
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/advik-bhatt/advik-bhatt/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/advik-bhatt/advik-bhatt/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub contribution world map animation" src="https://raw.githubusercontent.com/advik-bhatt/advik-bhatt/output/github-contribution-grid-snake.svg" />
+  </picture>
 
 </div>
 
 ---
-
 <div align="center">
   <i>Let's build something amazing together. <a href="mailto:YOUR_EMAIL_ADDRESS">Drop me a line!</a></i>
-  <br><br>
-  <b>"Always focused on performance optimization, minimizing data consumption, and building seamless digital experiences."</b>
 </div>
+
+> *"Always focused on performance optimization, minimizing data consumption, and building seamless digital experiences."*
